@@ -1,6 +1,3 @@
-// This is a Dart file
-// Filename: 3_.dart
-import 'dart:ffi';
 
 void main() {
   int variable1; // declaration
