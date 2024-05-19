@@ -15,4 +15,5 @@ void main() {
   print("Your age: $age");
 
   var data = stdin.readLineSync();
+  print(data);
 }
