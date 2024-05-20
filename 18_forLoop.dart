@@ -1,7 +1,6 @@
 import 'dart:io';
 
 void main() {
-  int x = 20;
 
   // This is For Loop
   for (var i = 0; i < 10; i++) {
