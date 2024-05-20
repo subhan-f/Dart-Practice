@@ -1,5 +1,12 @@
-// This is a Dart file
-// Filename: 24_.dart
+import 'dart:collection';
+
 void main() {
-  print("Hello from file {i}!");
+  Map map = Map();
+
+  map = {
+    "name": "Subhan Farrakh",
+    "age": "21",
+    "department": "Computer Engineering"
+  };
+  print(map['name']);
 }
