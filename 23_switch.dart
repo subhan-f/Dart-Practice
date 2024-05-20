@@ -1,5 +1,21 @@
-// This is a Dart file
-// Filename: 23_.dart
 void main() {
-  print("Hello from file {i}!");
+  int x = 20, y = 12;
+  var operation = '-';
+  switch (operation) {
+    case '+':
+      print(x + y);
+      return;
+
+    case '-':
+      print(x - y);
+      return;
+
+    case '*':
+      print(x * y);
+      return;
+      
+    case '/':
+      print(x / y);
+      return;
+  }
 }
